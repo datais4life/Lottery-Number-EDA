@@ -32,6 +32,6 @@ We can look at it from another perspective and add up the sum of all winning com
 ![Histogram Chart](Histogram.png)
 
 The question always remains of what the next winning combination will be. Let's use the value_counts() method to find the 6 most and least frequently drawn numbers.
-![Value Counts 6](ValueCounts.jpg)
+![Value Counts 6](ValueCounts.png)
 
 Good luck on your next game!
